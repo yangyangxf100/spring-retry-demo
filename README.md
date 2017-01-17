@@ -1,3 +1,5 @@
+#spring retry demo 保证好用
+
 #效果图如下
 10:25:57.322 [main] DEBUG org.springframework.retry.support.RetryTemplate - Retry: count=0
 do something...
