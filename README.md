@@ -14,3 +14,6 @@ do something...
 10:26:07.363 [main] DEBUG org.springframework.retry.support.RetryTemplate - Checking for rethrow: count=3
 10:26:07.363 [main] DEBUG org.springframework.retry.support.RetryTemplate - Retry failed last attempt: count=3
 发生异常了：RPC调用异常
+
+
+![image](https://github.com/yangyangxf100/spring-retry-demo/blob/master/cropCircle2.png)
